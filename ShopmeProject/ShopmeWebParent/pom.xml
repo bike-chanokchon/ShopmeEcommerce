@@ -11,6 +11,7 @@
 	<groupId>com.shopme</groupId>
 	<artifactId>ShopmeWebParent</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
+	<packaging>pom</packaging>
 	<name>ShopmeWebParent</name>
 	<description>Parent spring web project</description>
 	<properties>
