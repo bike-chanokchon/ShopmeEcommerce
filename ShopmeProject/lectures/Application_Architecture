@@ -1,0 +1,22 @@
+
+	Application Architecture (Logical Layers)
+		> View
+		> Controller
+		> Service
+		> Repository
+		> Spring Data JPA
+		> Hibernate Framework
+		> JDBC Driver
+		> Database
+		
+	Example
+		> View
+			- products.html
+			- product_form.hmtl
+		> Controller
+			- ProductController
+		> Service
+			- ProductService
+		> Repository
+			- Product
+			- ProductRepository
