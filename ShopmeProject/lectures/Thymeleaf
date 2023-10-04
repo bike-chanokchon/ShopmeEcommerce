@@ -1,5 +1,0 @@
-
-	Thymeleaf
-		> @{ <path> }
-			- build url with current domain
-		
